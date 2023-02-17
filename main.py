@@ -1,9 +1,13 @@
 # -*- coding: utf-8 -*-
+"""
+Computer Vision & Image Processing Gui App
+                Qt
 
-#-----A Sample Gui Application-----
-#-----Computer Vision and Image Processing-----
-#-----Shahid Abbas-----
-#-----15th Feb 2023-----
+Created on Fri Feburary 17, 2023
+Time: 10:46:22
+@author: Shahid Abbas
+
+"""
 
 
 
