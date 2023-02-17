@@ -16,5 +16,7 @@ This repository provide interface to the user which is basically a small graphic
 - Pencil sketch
 - Cartoonic sketch
 - etc
+### Opencv Gui App
+![App Screenshot](https://github.com/abbassi007/Qt_Opencv_Gui/blob/master/Demo.gif) 
 ### Contact
 It would be my pleasure to guide and assist you. If you have any questions feel free to contact me at **shahidabbassi002[at][gmail][dot][com]**
