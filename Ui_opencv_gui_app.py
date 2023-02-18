@@ -533,13 +533,3 @@ class Ui_MainWindow(object):
         self.actionClose_Ctrl_F4.setText(_translate("MainWindow", "Close               Ctrl+F4"))
         self.actionClose_Ctrl_F4.setShortcut(_translate("MainWindow", "Ctrl+F4"))
         self.actionQuit.setText(_translate("MainWindow", "Quit"))
-
-
-if __name__ == "__main__":
-    import sys
-    app = QtWidgets.QApplication(sys.argv)
-    MainWindow = QtWidgets.QMainWindow()
-    ui = Ui_MainWindow()
-    ui.setupUi(MainWindow)
-    MainWindow.show()
-    sys.exit(app.exec_())
