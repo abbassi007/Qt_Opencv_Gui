@@ -11,6 +11,17 @@ Filters        | Colors       | Others
 Gaussian       |    RGB       | Salt & Pepper Noise
 Median      |   YCbCr      | Pencil sketch 
 Laplacian  | Grayscale | Cartoonic sketch
+
+### Execution 
+- Download the repository to your favourite folder.
+- Go to that folder using command.
+```bash
+cd file_folder path
+```
+- Then run the code using command.
+ ```bash
+pthon main.py
+```
 ### License
 [MIT License](LICENSE)
 ### Contact
